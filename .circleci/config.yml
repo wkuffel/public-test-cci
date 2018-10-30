@@ -9,7 +9,7 @@ jobs:
       - run: echo "A first hello"
       - run: sleep 552
       - run: echo "A first hello"
-      - run: sleep 551
+      - run: sleep 550
       - run: echo "A first hello"
       - run: sleep 551
       - run: echo "A first hello"
