@@ -7,7 +7,7 @@ jobs:
     steps:
       - checkout
       - run: echo "A first hello"
-      - run: sleep 553
+      - run: sleep 552
       - run: echo "A first hello"
       - run: sleep 554
       - run: echo "A first hello"
